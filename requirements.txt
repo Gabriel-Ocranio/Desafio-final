@@ -1,0 +1,11 @@
+# Dependências do curso. Depois que o projeto rodar na máquina de alguém,
+# troque esta lista pela saída de `pip freeze` para todos usarem as mesmas versões.
+langgraph
+langchain
+langchain[mcp]
+langchain-openai
+langchain-text-splitters
+python-dotenv
+pydantic
+langfuse
+streamlit
